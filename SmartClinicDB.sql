@@ -1,8 +1,5 @@
 ```sql
--- ==========================================
--- Smart Clinic Database System
--- Complete SQL Implementation
--- ==========================================
+
 
 
 
